@@ -64,13 +64,13 @@ The project follows a layered architecture:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AyhamJo7/MavericksLMS-OnlineSchema-JavaSql.git
-   cd mavericks-lms
+   git clone https://github.com/AyhamJo7/LMSJS.git
+   cd LMSJS
    ```
 
 2. Configure MySQL database:
    ```
-   Create a database named 'mavericks_lms'
+   Create a database named 'LMSJS'
    ```
 
 3. Update application properties:
