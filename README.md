@@ -1,5 +1,5 @@
 # Mavericks Learning Management System
-![My Project Logo](lmsjs.png)
+![My Project Logo](lmsjs.jpg)
 
 A modern, feature-rich Learning Management System (LMS) built with Spring Boot and modern Java practices. This platform enables instructors to create and manage courses, and students to enroll in courses and track their progress.
 
